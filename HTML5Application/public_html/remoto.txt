@@ -1,2 +1,3 @@
-Arquivo criado remotamente 
-para teste de integração com a IDE NetBeans
+Linhas apagadas
+e novas linhas inseridas para teste
+

@@ -1,3 +1,4 @@
 Linhas apagadas
 e novas linhas inseridas para teste
 
+Mais uma linha adicionada
